@@ -54,7 +54,6 @@ body {
   transform-origin: -48px center;
 }
 
-
 #designer-arm-grop {
   animation: write 1.5s ease infinite;
   transform: translate(0, 0) rotate(0deg) scale(1, 1);
