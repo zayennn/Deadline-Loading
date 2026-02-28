@@ -1,4 +1,3 @@
-// Init
 var $ = jQuery;
 var animationTime = 20,
     days = 7;
