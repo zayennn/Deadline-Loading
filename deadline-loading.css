@@ -46,7 +46,6 @@ body {
 
 #death-arm {
   animation: move-arm 3s ease infinite;
-  /* transform-origin: left center; */
   transform-origin: -60px 74px;
 }
 
