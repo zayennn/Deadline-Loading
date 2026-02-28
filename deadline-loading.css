@@ -213,7 +213,6 @@ body {
   }
 }
 
-
 @keyframes write {
   0% {
     transform: translate(0, 0) rotate(0deg) scale(1, 1);
