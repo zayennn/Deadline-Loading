@@ -99,7 +99,6 @@ body {
   right: 0;
 }
 
-
 #red-flame {
   opacity: 0;
   animation: show-flames 20s ease infinite, red-flame 120ms ease infinite;
